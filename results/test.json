@@ -1,0 +1,87 @@
+[
+    {
+        "port": 20,
+        "status": "CLOSED",
+        "service": "FTP-DATA"
+    },
+    {
+        "port": 21,
+        "status": "CLOSED",
+        "service": "FTP"
+    },
+    {
+        "port": 22,
+        "status": "OPEN",
+        "service": "SSH"
+    },
+    {
+        "port": 23,
+        "status": "CLOSED",
+        "service": "TELNET"
+    },
+    {
+        "port": 25,
+        "status": "CLOSED",
+        "service": "SMTP"
+    },
+    {
+        "port": 53,
+        "status": "CLOSED",
+        "service": "DNS"
+    },
+    {
+        "port": 80,
+        "status": "OPEN",
+        "service": "HTTP"
+    },
+    {
+        "port": 110,
+        "status": "CLOSED",
+        "service": "POP3"
+    },
+    {
+        "port": 135,
+        "status": "CLOSED",
+        "service": "RPC"
+    },
+    {
+        "port": 139,
+        "status": "CLOSED",
+        "service": "NetBIOS"
+    },
+    {
+        "port": 143,
+        "status": "CLOSED",
+        "service": "IMAP"
+    },
+    {
+        "port": 443,
+        "status": "CLOSED",
+        "service": "HTTPS"
+    },
+    {
+        "port": 445,
+        "status": "CLOSED",
+        "service": "SMB"
+    },
+    {
+        "port": 3306,
+        "status": "CLOSED",
+        "service": "MySQL"
+    },
+    {
+        "port": 3389,
+        "status": "CLOSED",
+        "service": "RDP"
+    },
+    {
+        "port": 5432,
+        "status": "CLOSED",
+        "service": "PostgreSQL"
+    },
+    {
+        "port": 8080,
+        "status": "CLOSED",
+        "service": "HTTP-Proxy"
+    }
+]
